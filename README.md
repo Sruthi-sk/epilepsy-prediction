@@ -1,5 +1,6 @@
 # epilepsy-prediction
-Methods for prediction of epilepsy onset in EEG
+Code for paper presented at XL Annual Meeting of Indian Academy of Neurosciences (IAN 2022) , 8-10 December 2022 , 
+Department of Biomedical Engineering, NEHU, Shillong, India.
 
 Classification of EEG data (2s epochs): Control, Interictal, Peri-ictal
 Note: Ictal not chosen - this algorithm is to be optimized for prediction of epilepsy onset
